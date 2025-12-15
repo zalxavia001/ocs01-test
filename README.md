@@ -34,3 +34,6 @@ Total duration: 1914s
 Total transactions: 150
 
 SHA-256 log: 6ad260c00d76d73069d691620ac5e413851e1d02ac2b5f05020702ed1aed6930  benchmark2.log
+
+PS:
+The logs have been verified.
